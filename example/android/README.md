@@ -11,6 +11,7 @@ You need a Bash shell on Linux, macOS, or Windows with some common tools, a C++ 
 * [Install Perl 5](https://www.perl.org/get.html)
 * [Install cmake 3+ and make 3.80+](https://cmake.org/cmake/help/latest/command/install.html)
 * [Install Clang 3.4+ or GCC 4.9+](https://habr.com/ru/articles/167281/)
+* [Install llvm deps for git bash](https://github.com/Adriankhl/llvm-git-bash)
 * [Install Visual Studio 16 2019+](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
 
 ## LIN dependencies:
