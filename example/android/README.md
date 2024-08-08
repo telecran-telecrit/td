@@ -10,8 +10,9 @@ You need a Bash shell on Linux, macOS, or Windows with some common tools, a C++ 
 * [Install PHP 8.1+](https://www.php.net/downloads)
 * [Install Perl 5](https://www.perl.org/get.html)
 * [Install cmake 3+ and make 3.80+](https://cmake.org/cmake/help/latest/command/install.html)
-* [Install Clang 3.4+ or GCC 4.9+](https://habr.com/ru/articles/167281/)
 * [Install llvm deps for git bash](https://github.com/Adriankhl/llvm-git-bash)
+* [Install Clang 3.4+ or GCC 4.9+](https://habr.com/ru/articles/167281/)
+* [Install Clang++ for windows from Visual Studio 16 2019+](https://www.wikihow.com/Install-Clang-on-Windows)
 * [Install Visual Studio 16 2019+](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
 * [Install ninja 1.12+](https://github.com/ninja-build/ninja/releases)
 
